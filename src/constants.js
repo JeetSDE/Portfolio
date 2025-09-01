@@ -225,8 +225,8 @@ export const SkillsInfo = [
         "The WhatsApp Clone is a web-based project that replicates WhatsApp’s interface and features like messaging, calling highlights, group chats, and end-to-end encryption, with a clean and responsive design.",
       image: whatsappLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://whatsap-clone-project.netlify.app/",
-      webapp: "https://csprep.netlify.app/",
+      github: "https://github.com/JeetSDE/Whatsapp-Clone-Project",
+      webapp: "https://whatsap-clone-project.netlify.app/",
     },
     {
       id: 2,
