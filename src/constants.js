@@ -120,7 +120,7 @@ export const SkillsInfo = [
       role: "Front-end Developer Intern",
       company: "Perfect Rank",
       date: "May 2025 - July 2025",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
+      desc: "Worked as a Frontend Developer Intern at Perfect Rank, building responsive React.js interfaces with SCSS and Vite. Developed key features like dynamic search and mock test pages by integrating RESTful APIs and managing state with Redux. Collaborated with backend and design teams to ensure seamless user experience, optimized performance, and maintained clean, modular code using Git",
       skills: [
         "HTML",
         "CSS",
