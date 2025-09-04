@@ -9,7 +9,7 @@ const About = () => {
       id="about"
       className="py-4 px-[7vw] md:px-[7vw] lg:px-[14vw] font-sans mt-8 md:mt-14 lg:mt-14"
     >
-      <div className="flex flex-col-reverse md:flex-row justify-evenly items-center">
+      <div className="flex flex-col-reverse md:flex-row justify-evenly md:items-center lg:items-start">
         {/* Left Side */}
         <div className="md:w-1/2 text-center md:text-left mt-8 md:mt-0">
           {/* Greeting */}
@@ -68,6 +68,7 @@ const About = () => {
             scale={1.05}
             transitionSpeed={1000}
             gyroscope={true}
+            style={{width: 280 , height: 320}}
           >
             <img
               src={profileImage}
