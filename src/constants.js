@@ -229,8 +229,8 @@ export const SkillsInfo = [
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: todolistLogo,
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/JeetSDE/Todo-List",
+      webapp: "https://jeet-todo-list.vercel.app/",
     },
     {
       id: 3,
@@ -249,8 +249,8 @@ export const SkillsInfo = [
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: githubPLogo,
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/JeetSDE/Github-Profile-Viewer",
+      webapp: "https://jeet-github-profile-viewer.vercel.app/",
     },
     {
       id: 5,
@@ -269,7 +269,7 @@ export const SkillsInfo = [
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: calculatorLogo,
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/JeetSDE/Calculator",
+      webapp: "https://jeet-calculator.vercel.app/",
     },
   ];  
