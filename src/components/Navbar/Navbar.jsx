@@ -88,7 +88,7 @@ const Navbar = () => {
             <FaLinkedin size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/vishwajeetgupta01/"
+            href="https://leetcode.com/u/vishwajeetgupta_05/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
